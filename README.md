@@ -124,7 +124,7 @@ The recommendation quality is evaluated using:
 * User Satisfaction
 * Recommendation Diversity
 ## Image
-
+<img src="Dashboard.png" width="800">
 ## Author
 
 Mohammed Sowban
